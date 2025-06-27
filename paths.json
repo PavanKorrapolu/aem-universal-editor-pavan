@@ -2,7 +2,8 @@
   "mappings": [
     "/content/aem-universal-editor-pavan/:/",
     "/content/aem-universal-editor-pavan/configuration:/.helix/config.json",
-    "/content/aem-universal-editor-pavan/metadata:/metadata.json"
+    "/content/aem-universal-editor-pavan/metadata:/metadata.json",
+    "/content/aem-universal-editor-pavan/redirects/redirects.json"
   ],
   "includes": [
     "/content/aem-universal-editor-pavan/"
